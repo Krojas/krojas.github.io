@@ -1,13 +1,9 @@
 theme: jekyll-theme-minimal
 title: Dr. Karina Rojas
 logo: '/images/paranal.jpg'
-minima:
-  date_format: "%b %-d, %Y"
 
-  # generate social links in footer
-  social_links:
-    twitter: karygri
-    github:  krojas
+twitter: karygri
+github:  krojas
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
