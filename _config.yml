@@ -2,14 +2,6 @@ theme: jekyll-theme-minimal
 title: Dr. Karina Rojas
 logo: '/images/paranal.jpg'
 
-owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  bio:            "blablablablabla"
-  email:          karina.rojasolate@gmail.com
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        karygri
-  facebook:
-  github:
+
 
 
