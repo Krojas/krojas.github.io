@@ -1,2 +1,13 @@
 theme: jekyll-theme-minimal
 title: Dr. Karina Rojas
+logo: '/images/paranal.jpg'
+footer_links:
+  - title: Twitter
+    url: https://twitter.com/karygri
+    icon: fab fa-twitter-square
+  - title: Instagram
+    url: https://instagram.com/karygri
+    icon: fab fa-instagram
+  - title: GitHub
+    url: https://github.com/krojas
+    icon: fab fa-github-square
