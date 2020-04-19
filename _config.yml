@@ -1,13 +1,25 @@
 theme: jekyll-theme-minimal
 title: ''
 logo: '/images/paranal.jpg'
-footer_links:
-  - title: Twitter
-    url: https://twitter.com/karygri
-    icon: fab fa-twitter-square
-  - title: Instagram
-    url: https://instagram.com/karygri
-    icon: fab fa-instagram
-  - title: GitHub
-    url: https://github.com/krojas
-    icon: fab fa-github-square
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: karygri
+    github:  krojas
+    # devto: jekyll
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
+
