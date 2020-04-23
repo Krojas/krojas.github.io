@@ -28,6 +28,8 @@ With the discovery of new lensing systems also other projects like, microlensing
 [back](./)
 
 ### Quasar Microlensing
+![simulations](/images/micro.png)
+
 Is produced when the images of the deflected source (Quasar) have about micro-arcseconds of separations, this effect can be produced by stellar objects, compact object (e.g. black holes) or stars, in the halo of lens galaxies. In this topic I have been work in two applications: 
 
 #### Study of the inner structures of QSOs.
