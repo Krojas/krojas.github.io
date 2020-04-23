@@ -4,7 +4,7 @@ layout: default
 
 ![Lensing](/images/lensing1.jpg)
 
-##Projects
+###Projects
 
 *One of the biggest challenges in cosmology and astrophysics is to understand the parameters that can describe the content, geometry and evolution of our Universe. The deflection of the light rays by a gravitational field, hence gravitational lens effect, is one of the most powerful tool to address this problems. There is a broad variety of scientific questions that can be studied using this effect but sadly not enough gravitational lensing systems have been confimed yet.*
 
