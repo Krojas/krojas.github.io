@@ -20,7 +20,7 @@ During all february 2019 and 2020, to promote women in science visibility we cre
 ![simulations](/images/100lideres.png)
 In october 2018, the newspaper El Mercurio and Universidad Adolfo Ibáñez select us among the “100 Líderes Jóvenes 2018” (100 Young Leaders 2018) for our marvellous careers and work in astronomy outreach. 
 
-### Science collaborators in Planetario de Santiago scrip
+### Science collaborators with Planetario de Santiago
 In 2017 we participated as science collaborators in the script of “Bot y Lu: El escape del Agujero Negro”, the first production made for Planetario de Santiago.
 
 ### Mujeres Chilenas en ciencia
