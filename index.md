@@ -3,13 +3,13 @@
 
 [Research Projects](./projects.html)
 
-[Publications](./publications.html).
+[Publications](./publications.html)
 
-[Outreach](./Outreach.html).
+[Outreach](./Outreach.html)
 
 [Observationl Experience](./projects.html)
 
-[My cv](./cv.html).
+[My cv](./cv.html)
 
 **Contact:**
 karina.rojasolate@gmail.com
