@@ -3,18 +3,20 @@ layout: default
 ---
 
 ## Star Tres 
-
+![simulations](/images/logos3.png)
 I’m a co-founder of the outreach initiative Star Tres[3] together with Dr. Javiera Rey and PhD. Carolina Agurto. Since 2013, we work in create reliable astronomical material that we share in different social media platform (Facebook, Twitter, Instagram and YouTube) with the goal to share in simple words the most recent astronomical discoveries, but also show a more closer face of the scientific life. We are the first Chilean/spanish-speaking initiative of this type led by women, therefore, as part of our goal we promote the visibility of female participation in science. 
 
 Nowadays our community is large (29000 subscribers in YouTube) which opened us up to many opportunities:
 
 ### Astrocalendario
+![simulations](/images/astrocalendario.png)
 We worked in an illustrated astronomy calendar 2020 published by Editorial USACH and available in Buscalibre.
 
 ### Febrero de Cientificas
 During all february 2019 and 2020, to promote women in science visibility we create the social media initiative #FebreroDeCientificas, sharing short biographies of Latin American female scientists. Due to the big and positive response from our community, we are looking forward to continue this in the next years. 
 
 ### 100 Líderes Jóvenes 2018
+![simulations](/images/100lideres.png)
 In october 2018, the newspaper El Mercurio and Universidad Adolfo Ibáñez select us among the “100 Líderes Jóvenes 2018” (100 Young Leaders 2018) for our marvellous careers and work in astronomy outreach. 
 
 ### Science collaborators in Planetario de Santiago scrip
