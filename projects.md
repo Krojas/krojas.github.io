@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![GitHub Logo](/images/lensing1.jpg)
+![Lensing](/images/lensing1.jpg)
 
 ##Projects
 
@@ -14,6 +14,8 @@ layout: default
 [back](./)
 
 ### Lens Finding
+![simulations](/images/sim_s1.png)
+
 Currently I'm applying Convolutional Neural Network (CNN) algorithm to look for lenses in ground base data. This algorithm required training/testing/validation sets of thousand of systems to be able to learn how they "look". But there is only hundreds of known strong lensing systems, so they are not enough to be used in these sets, therefore the first and very challenging step is simulate gravitational lens systems. 
 
 I developed a full lens simulation toolbox based on lenstronomy (Birrer & Amara 2018) to create simulations base on real data unlike previous work which training set where fully simulated of partially simulated. I’m exploring different parameters distribution to provide the most diverse sample as a training set. 
