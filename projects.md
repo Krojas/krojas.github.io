@@ -23,11 +23,13 @@ With the discovery of new lensing systems also other projects like, microlensing
 Is produced when the images of the deflected source (Quasar) have about micro-arcseconds of separations, this effect can be produced by stellar objects, compact object (e.g. black holes) or stars, in the halo of lens galaxies. In this topic I have been work in two applications: 
 
 ##Study of the inner structures of QSOs.
+
 This study is a big challenge, because this region is small and it is not resolvable with current observational facilities, even with VLTI. As a consequence, theories of accretion disks, which predict accretion disk sizes and their radial temperature profile (Shakura 1973), still need to be proven. This can be studied with indirect observational evidence, such as QSO microlensing that is produced by stars in the lens galaxy halo.
 
 Using the microlensing properties I analyzed spectroscopic data searching for chromatic microlensing effect due to the source size being color-dependent. This allow us to estimate the size and the temperature profile of the accretion disk of quasars.
 
 ##Hubble Constant and microlensing.
+
 Time delay in strong lensed quasars offers an independent measurement of the expansion rate of the Universe, hence, the Hubble Constant. The COSMOGRAIL collaboration is aimed to measure high-precision time delays of known lensed quasars, using optical light curves in 6-7 month of monitoring. The final goal of COSMOGRAL, together with H0LICOW collaboration, is to provide a precise value for the Hubble constant. 
 
 In this context I investigate the  possible systematic errors produced by microlensing in the quasar light curves as  Tie & Kochanek (2018a) proposed. I developed a method to reproduce their work and investigate how mitigate this effect of microlensing time delay in COSMOGRAIL time delays measurements. This method is now the standard method in H0LiCOW to evaluate the impact of microlensing time delay on any new system measured by the collaboration.
