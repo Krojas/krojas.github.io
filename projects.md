@@ -4,7 +4,7 @@ layout: default
 
 ![Lensing](/images/lensing1.jpg)
 
-### Projects
+## Projects
 
 *One of the biggest challenges in cosmology and astrophysics is to understand the parameters that can describe the content, geometry and evolution of our Universe. The deflection of the light rays by a gravitational field, hence gravitational lens effect, is one of the most powerful tool to address this problems. There is a broad variety of scientific questions that can be studied using this effect but sadly not enough gravitational lensing systems have been confimed yet.*
 
@@ -43,8 +43,6 @@ Using the microlensing properties I analyzed spectroscopic data searching for ch
 Time delay in strong lensed quasars offers an independent measurement of the expansion rate of the Universe, hence, the Hubble Constant. The COSMOGRAIL collaboration is aimed to measure high-precision time delays of known lensed quasars, using optical light curves in 6-7 month of monitoring. The final goal of COSMOGRAL, together with H0LICOW collaboration, is to provide a precise value for the Hubble constant. 
 
 In this context I investigate the  possible systematic errors produced by microlensing in the quasar light curves as  Tie & Kochanek (2018a) proposed. I developed a method to reproduce their work and investigate how mitigate this effect of microlensing time delay in COSMOGRAIL time delays measurements. This method is now the standard method in H0LiCOW to evaluate the impact of microlensing time delay on any new system measured by the collaboration.
-
-
 
 
 [back](./)
