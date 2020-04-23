@@ -2,12 +2,16 @@
 layout: default
 ---
 
-![GitHub Logo](/images/lensing.jpg)
+![GitHub Logo](/images/lensing1.jpg)
 
 #Projects
+
 *One of the biggest challenges in cosmology and astrophysics is to understand the parameters that can describe the content, geometry and evolution of our Universe. The deflection of the light rays by a gravitational field, hence gravitational lens effect, is one of the most powerful tool to address this problems. There is a broad variety of scientific questions that can be studied using this effect but sadly not enough gravitational lensing systems have been confimed yet.*
 
 *I'm presenting here some of the research topics of my interest including the search for new gravitational lens systems.*
+
+
+[back](./)
 
 ### Lens Finding
 Currently I'm applying Convolutional Neural Network (CNN) algorithm to look for lenses in ground base data. This algorithm required training/testing/validation sets of thousand of systems to be able to learn how they "look". But there is only hundreds of known strong lensing systems, so they are not enough to be used in these sets, therefore the first and very challenging step is simulate gravitational lens systems. 
@@ -18,6 +22,8 @@ Once we will have lens candidates we will need to do observational follow-up cam
 
 With the discovery of new lensing systems also other projects like, microlensing in quasars to study the inner structures and solve the Hubble constant tension will be benefited. Increasing the number of known system will improve the statistical analysis.
 
+
+[back](./)
 
 ### Quasar Microlensing
 Is produced when the images of the deflected source (Quasar) have about micro-arcseconds of separations, this effect can be produced by stellar objects, compact object (e.g. black holes) or stars, in the halo of lens galaxies. In this topic I have been work in two applications: 
