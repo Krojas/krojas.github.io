@@ -3,8 +3,8 @@ layout: default
 ---
 
 ## Star Tres 
-![simulations](/images/s3logo.png)
-I’m a co-founder of the outreach initiative Star Tres[3] together with Dr. Javiera Rey and PhD. Carolina Agurto. Since 2013, we work in create reliable astronomical material that we share in different social media platform (Facebook, Twitter, Instagram and YouTube) with the goal to share in simple words the most recent astronomical discoveries, but also show a more closer face of the scientific life. We are the first Chilean/spanish-speaking initiative of this type led by women, therefore, as part of our goal we promote the visibility of female participation in science. 
+![simulations](/images/yang=2019.pdf)
+I’m a co-founder of the outreach initiative Star Tres together with Dr. Javiera Rey and PhD. Carolina Agurto. Since 2013, we work in create reliable astronomical material that we share in different social media platform (Facebook, Twitter, Instagram and YouTube) with the goal to share in simple words the most recent astronomical discoveries, but also show a more closer face of the scientific life. We are the first Chilean/spanish-speaking initiative of this type led by women, therefore, as part of our goal we promote the visibility of female participation in science. 
 
 Nowadays our community is large (29000 subscribers in YouTube) which opened us up to many opportunities:
 
