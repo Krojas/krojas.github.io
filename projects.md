@@ -2,9 +2,12 @@
 layout: default
 ---
 
-#One of the biggest challenges in cosmology and astrophysics is to understand the parameters that can describe the content, geometry and evolution of our Universe. The deflection of the light rays by a gravitational field, hence gravitational lens effect, is one of the most powerful tool to address this problems. There is a broad variety of scientific questions that can be studied using this effect but sadly not enough gravitational lensing systems have been confimed yet.
+![GitHub Logo](/images/lensing.jpg)
 
-#I'm presenting here some of the research topics of my interest including the search for new gravitational lens systems.
+#Projects
+*One of the biggest challenges in cosmology and astrophysics is to understand the parameters that can describe the content, geometry and evolution of our Universe. The deflection of the light rays by a gravitational field, hence gravitational lens effect, is one of the most powerful tool to address this problems. There is a broad variety of scientific questions that can be studied using this effect but sadly not enough gravitational lensing systems have been confimed yet.*
+
+*I'm presenting here some of the research topics of my interest including the search for new gravitational lens systems.*
 
 ### Lens Finding
 Currently I'm applying Convolutional Neural Network (CNN) algorithm to look for lenses in ground base data. This algorithm required training/testing/validation sets of thousand of systems to be able to learn how they "look". But there is only hundreds of known strong lensing systems, so they are not enough to be used in these sets, therefore the first and very challenging step is simulate gravitational lens systems. 
