@@ -7,7 +7,7 @@
 
 [Outreach](./Outreach.html)
 
-[Observationl Experience](./cv.html)
+[Observationl Experience](./obs_exp.html)
 
 [My cv](./cv.html)
 
