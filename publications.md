@@ -20,15 +20,19 @@ Canameras, R.; Schuldt, S.; Suyu, S. H.; Taubenberger, S.; Meinhardt, T.; Leal-T
 
 ## Microlensing Analysis for the gravitational lens systems SDSS0924+0219, Q1355-2257, and SDSS1029+2623
 
-2020, The Astrophysical Journal, 890:3 (9pp) [Link](https://ui.adsabs.harvard.edu/abs/2020ApJ...890....3R/abstract}{}{})
+2020, The Astrophysical Journal, 890:3 (9pp) [Link](https://ui.adsabs.harvard.edu/abs/2020ApJ...890....3R/abstract)
 Rojas, K.; Motta, V.; Mediavilla, E.; Jim\'enez-Vicente, J.; Falco, E.; Fian,C. 
 
-## COSMOGRAIL. XVIII. time delays of the quadruply lensed quasar WFI2033-4723}{}{2019, A\&A, Volume 629, id.A97, 13 pp}{}{Bonvin, V.; Millon, M.; Chan, J. H.-H.; Courbin, F.; Rusu, C. E.; Sluse, D.; Suyu, S. H.; Wong, K. C.; Fassnacht, C. D.; Marshall, P. J.; Treu, T.; Buckley-Geer, E.; Frieman, J.; Hempel, A.; Kim, S.; Lachaume, R.; Rabus, M.; Chao, D. C. -Y.; Chijani, M.; Gilman, D.; Gilmore, \textbf{ K.; Rojas}, K.; Williams, P.; Anguita, T.; Kochanek, C. S.; Morgan, C.; Motta, V.; Tewes, M.; Meylan, G., \\
-https://ui.adsabs.harvard.edu/abs/2019A\%26A...629A..97B/abstract}
+## COSMOGRAIL. XVIII. time delays of the quadruply lensed quasar WFI2033-4723
 
-\vspace{0.1 cm}
+2019, A\&A, Volume 629, id.A97, 13 pp. [Link](
+https://ui.adsabs.harvard.edu/abs/2019A\%26A...629A..97B/abstract)
+Bonvin, V.; Millon, M.; Chan, J. H.-H.; Courbin, F.; Rusu, C. E.; Sluse, D.; Suyu, S. H.; Wong, K. C.; Fassnacht, C. D.; Marshall, P. J.; Treu, T.; Buckley-Geer, E.; Frieman, J.; Hempel, A.; Kim, S.; Lachaume, R.; Rabus, M.; Chao, D. C. -Y.; Chijani, M.; Gilman, D.; Gilmore, \textbf{ K.; Rojas}, K.; Williams, P.; Anguita, T.; Kochanek, C. S.; Morgan, C.; Motta, V.; Tewes, M.; Meylan, G.
 
-\cventry{}{Quasar microlensing: Revolutionizing our understanding of quasar structure and dynamics}{}{2019, Astro2020: Decadal Survey on Astronomy and Astrophysics, science white papers, no. 487; Bulletin of the American Astronomical Society, Vol. 51, Issue 3, id. 487}{}{Moustakas, Leonidas; Anguita, Timo; Chartas, George; Cornachione, Matthew; Dai, Xinyu; Fian, Carina; Jimenez-Vicente, Jorge; Labrie, Kathleen; Macleod, Chelsea; Mediavilla, Evencio; Morgan, Christopher W.; O'Dowd, Matthew; Lewis, Geraint; Motta, Veronica; Nierenberg, Anna; Pooley, David; \textbf{Rojas, Karina}; Sluse, Dominique; Vernardos, Georgios; Webster, Rachel; Yong, Suk Yee,  \\ https://ui.adsabs.harvard.edu/abs/2019BAAS...51c.487M/abstract}{}{}
+##Quasar microlensing: Revolutionizing our understanding of quasar structure and dynamics
+
+2019, Astro2020: Decadal Survey on Astronomy and Astrophysics, science white papers, no. 487; Bulletin of the American Astronomical Society, Vol. 51, Issue 3, id. 487. [Link](https://ui.adsabs.harvard.edu/abs/2019BAAS...51c.487M/abstract)
+Moustakas, Leonidas; Anguita, Timo; Chartas, George; Cornachione, Matthew; Dai, Xinyu; Fian, Carina; Jimenez-Vicente, Jorge; Labrie, Kathleen; Macleod, Chelsea; Mediavilla, Evencio; Morgan, Christopher W.; O'Dowd, Matthew; Lewis, Geraint; Motta, Veronica; Nierenberg, Anna; Pooley, David; \textbf{Rojas, Karina}; Sluse, Dominique; Vernardos, Georgios; Webster, Rachel; Yong, Suk Yee
 
 \vspace{0.1 cm}
 
