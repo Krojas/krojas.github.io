@@ -5,9 +5,13 @@ layout: default
 ## Star Tres 
 ![simulations](/images/s3logo.png)
 
-I’m a co-founder of the outreach initiative Star Tres together with Dr. Javiera Rey and PhD. Carolina Agurto. Since 2013, we work in create reliable astronomical material that we share in different social media platform (Facebook, Twitter, Instagram and YouTube) with the goal to share in simple words the most recent astronomical discoveries, but also show a more closer face of the scientific life. We are the first Chilean/spanish-speaking initiative of this type led by women, therefore, as part of our goal we promote the visibility of female participation in science. 
+I’m a co-founder of the outreach initiative [Star Tres](http://www.startres.net/) together with Dr. Javiera Rey and Dr. (c) Carolina Agurto. Since 2013, we work in create reliable astronomical material that we share in different social media platform ([Facebook](https://www.facebook.com/startres3/), [Twitter](https://twitter.com/Star_Tres), [Instagram](https://www.instagram.com/startrespics/) and [YouTube](https://www.youtube.com/channel/UCUdqLeQDRHCxMieLIdMf03g)) with the goal to share in simple words the most recent astronomical discoveries, but also show a more closer face of the scientific life. We are the first Chilean/spanish-speaking initiative of this type led by women, therefore, as part of our goal we promote the visibility of female participation in science. 
 
 Nowadays our community is large (29000 subscribers in YouTube) which opened us up to many opportunities:
+
+### Divulgacon
+![simulations](/images/divulgacon.jpg)
+[Divulgacon](https://www.mim.cl/index.php/mim-realiza-maraton-virtual-con-reconocidos-cientificos-y-edutubers-internacionales) it was an event organized by the Museo Interactivo Mirador (MIM) where national and international Edutubers and Scientist present about different topics. Star Tres it was invited and we talk about Women in Science.
 
 ### Astrocalendario
 ![simulations](/images/astrocalendario.png)
