@@ -6,23 +6,25 @@ layout: default
 
 ## TDCOSMO II: 6 new time delays in lensed quasars from high-cadence monitoring at the MPIA 2.2m telescope
 
-2020, A\&A, Submitted. Millon, M.; Courbin, F.; Bonvin, V.; Buckley-Geer, E.; Fassnacht, C. D.; Frieman, J.; Marshall, P. J.; Suyu, S. H.; Treu, T.; Anguita, T.; Motta, V.; Agnello, A.; Chan, J. H. H.; C. -Y Chao, D.; Chijani, M.; Gilman, D.; Gilmore, K.; Lemon, C.; Lucey, J. R.; Melo, A. Paic, E.; Rojas, K.; Sluse, D.; Williams, P. R.; Hempel, A.; Kim, S.; Lachaume, R.; Rabus, M.
-
+2020, A\&A, Submitted. 
 [link](https://ui.adsabs.harvard.edu/abs/2020arXiv200610066M/abstract}{}{})
+
+Millon, M.; Courbin, F.; Bonvin, V.; Buckley-Geer, E.; Fassnacht, C. D.; Frieman, J.; Marshall, P. J.; Suyu, S. H.; Treu, T.; Anguita, T.; Motta, V.; Agnello, A.; Chan, J. H. H.; C. -Y Chao, D.; Chijani, M.; Gilman, D.; Gilmore, K.; Lemon, C.; Lucey, J. R.; Melo, A. Paic, E.; Rojas, K.; Sluse, D.; Williams, P. R.; Hempel, A.; Kim, S.; Lachaume, R.; Rabus, M.
 
 
 ## HOLISMOKES -- II. Identifying galaxy-scale strong gravitational lenses in Pan-STARRS using convolutional neural networks
-###### 2020, A\&A, Accepted
+
+2020, A\&A, Accepted. [Link](https://ui.adsabs.harvard.edu/abs/2020arXiv200413048C/abstract)
+
 Canameras, R.; Schuldt, S.; Suyu, S. H.; Taubenberger, S.; Meinhardt, T.; Leal-Taixe, L.; Lemon, C.; Rojas, K.; Savary,E.
 
-[Link](https://ui.adsabs.harvard.edu/abs/2020arXiv200413048C/abstract)
 
 ## Microlensing Analysis for the gravitational lens systems SDSS0924+0219, Q1355-2257, and SDSS1029+2623
-2020, The Astrophysical Journal, 890:3 (9pp)}{}{\textbf{Rojas, K.}; Motta, V.; Mediavilla, E.; Jim\'enez-Vicente, J.; Falco, E.; Fian,C. \\ https://ui.adsabs.harvard.edu/abs/2020ApJ...890....3R/abstract}{}{}
 
-\vspace{0.1 cm}
+2020, The Astrophysical Journal, 890:3 (9pp) [Link](https://ui.adsabs.harvard.edu/abs/2020ApJ...890....3R/abstract}{}{})
+Rojas, K.; Motta, V.; Mediavilla, E.; Jim\'enez-Vicente, J.; Falco, E.; Fian,C. 
 
-\cventry{}{COSMOGRAIL. XVIII. time delays of the quadruply lensed quasar WFI2033-4723}{}{2019, A\&A, Volume 629, id.A97, 13 pp}{}{Bonvin, V.; Millon, M.; Chan, J. H.-H.; Courbin, F.; Rusu, C. E.; Sluse, D.; Suyu, S. H.; Wong, K. C.; Fassnacht, C. D.; Marshall, P. J.; Treu, T.; Buckley-Geer, E.; Frieman, J.; Hempel, A.; Kim, S.; Lachaume, R.; Rabus, M.; Chao, D. C. -Y.; Chijani, M.; Gilman, D.; Gilmore, \textbf{ K.; Rojas}, K.; Williams, P.; Anguita, T.; Kochanek, C. S.; Morgan, C.; Motta, V.; Tewes, M.; Meylan, G., \\
+## COSMOGRAIL. XVIII. time delays of the quadruply lensed quasar WFI2033-4723}{}{2019, A\&A, Volume 629, id.A97, 13 pp}{}{Bonvin, V.; Millon, M.; Chan, J. H.-H.; Courbin, F.; Rusu, C. E.; Sluse, D.; Suyu, S. H.; Wong, K. C.; Fassnacht, C. D.; Marshall, P. J.; Treu, T.; Buckley-Geer, E.; Frieman, J.; Hempel, A.; Kim, S.; Lachaume, R.; Rabus, M.; Chao, D. C. -Y.; Chijani, M.; Gilman, D.; Gilmore, \textbf{ K.; Rojas}, K.; Williams, P.; Anguita, T.; Kochanek, C. S.; Morgan, C.; Motta, V.; Tewes, M.; Meylan, G., \\
 https://ui.adsabs.harvard.edu/abs/2019A\%26A...629A..97B/abstract}
 
 \vspace{0.1 cm}
