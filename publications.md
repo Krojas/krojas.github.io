@@ -9,7 +9,9 @@ Millon, M.; Courbin, F.; Bonvin, V.; Buckley-Geer, E.; Fassnacht, C. D.; Frieman
 
 
 ##HOLISMOKES -- II. Identifying galaxy-scale strong gravitational lenses in Pan-STARRS using convolutional neural networks
-2020, A\&A, Accepted
+
+###2020, A\&A, Accepted
+
 Canameras, R.; Schuldt, S.; Suyu, S. H.; Taubenberger, S.; Meinhardt, T.; Leal-Taixe, L.; Lemon, C.; Rojas, K.; Savary,E.
 [Link](https://ui.adsabs.harvard.edu/abs/2020arXiv200413048C/abstract)
 
