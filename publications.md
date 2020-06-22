@@ -2,12 +2,11 @@
 layout: default
 ---
 
-## coming soon
-
 ###TDCOSMO II: 6 new time delays in lensed quasars from high-cadence monitoring at the MPIA 2.2m telescope
 ##2020, A\&A, Submitted
-Millon, M.; Courbin, F.; Bonvin, V.; Buckley-Geer, E.; Fassnacht, C. D.; Frieman, J.; Marshall, P. J.; Suyu, S. H.; Treu, T.; Anguita, T.; Motta, V.; Agnello, A.; Chan, J. H. H.; C. -Y Chao, D.; Chijani, M.; Gilman, D.; Gilmore, K.; Lemon, C.; Lucey, J. R.; Melo, A. Paic, E.; \textbf{Rojas, K.}; Sluse, D.; Williams, P. R.; Hempel, A.; Kim, S.; Lachaume, R.; Rabus, M.
+Millon, M.; Courbin, F.; Bonvin, V.; Buckley-Geer, E.; Fassnacht, C. D.; Frieman, J.; Marshall, P. J.; Suyu, S. H.; Treu, T.; Anguita, T.; Motta, V.; Agnello, A.; Chan, J. H. H.; C. -Y Chao, D.; Chijani, M.; Gilman, D.; Gilmore, K.; Lemon, C.; Lucey, J. R.; Melo, A. Paic, E.; Rojas, K.; Sluse, D.; Williams, P. R.; Hempel, A.; Kim, S.; Lachaume, R.; Rabus, M.
 [link](https://ui.adsabs.harvard.edu/abs/2020arXiv200610066M/abstract}{}{})
+
 
 \vspace{0.1 cm}
 
