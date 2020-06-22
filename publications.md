@@ -11,13 +11,13 @@ Millon, M.; Courbin, F.; Bonvin, V.; Buckley-Geer, E.; Fassnacht, C. D.; Frieman
 
 
 ## HOLISMOKES -- II. Identifying galaxy-scale strong gravitational lenses in Pan-STARRS using convolutional neural networks
-2020, A\&A, Accepted
+###### 2020, A\&A, Accepted
 Canameras, R.; Schuldt, S.; Suyu, S. H.; Taubenberger, S.; Meinhardt, T.; Leal-Taixe, L.; Lemon, C.; Rojas, K.; Savary,E.
+
 [Link](https://ui.adsabs.harvard.edu/abs/2020arXiv200413048C/abstract)
 
-\vspace{0.1 cm}
-
-\cventry{}{Microlensing Analysis for the gravitational lens systems SDSS0924+0219, Q1355-2257, and SDSS1029+2623}{}{2020, The Astrophysical Journal, 890:3 (9pp)}{}{\textbf{Rojas, K.}; Motta, V.; Mediavilla, E.; Jim\'enez-Vicente, J.; Falco, E.; Fian,C. \\ https://ui.adsabs.harvard.edu/abs/2020ApJ...890....3R/abstract}{}{}
+## Microlensing Analysis for the gravitational lens systems SDSS0924+0219, Q1355-2257, and SDSS1029+2623
+2020, The Astrophysical Journal, 890:3 (9pp)}{}{\textbf{Rojas, K.}; Motta, V.; Mediavilla, E.; Jim\'enez-Vicente, J.; Falco, E.; Fian,C. \\ https://ui.adsabs.harvard.edu/abs/2020ApJ...890....3R/abstract}{}{}
 
 \vspace{0.1 cm}
 
