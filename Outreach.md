@@ -20,9 +20,16 @@ We worked in an illustrated astronomy calendar 2020 published by Editorial USACH
 ### Febrero de Cientificas
 During all february 2019 and 2020, to promote women in science visibility we create the social media initiative [#FebreroDeCientificas](https://www.instagram.com/explore/tags/febrerodecient%C3%ADficas/), sharing short biographies of Latin American female scientists. Due to the big and positive response from our community, we are looking forward to continue this in the next years. 
 
+### #YoutubersenALBA
+Alba sincrotron, located in Balcelona, Spain; invite Star Tres as part of the 14 youtubers to meet their facilities and the science developed there. This experience can be seeing in [Instagram Stories](https://www.instagram.com/stories/highlights/17867437060381042/). Click [here](https://www.instagram.com/p/Bx2YCz9oDDM/) to see the Instagram photogallery of this visit.
+
 ### 100 Líderes Jóvenes 2018
 ![simulations](/images/100lideres.png)
 In october 2018, the newspaper El Mercurio and Universidad Adolfo Ibáñez select us among the [“100 Líderes Jóvenes 2018”](http://www.redlideres.cl/lider/carolina-agurto-karina-rojas-y-javiera-rey/) (100 Young Leaders 2018) for our marvellous careers and work in astronomy outreach. 
+
+### Mujeres Bacanas
+![Mbacanas](/images/bacanas.png)
+In 2018 the iniciative "Mujeres Bacanas" hightly the trayectory of Star Tres in their [website](https://mujeresbacanas.com/carolina-agurto-karina-rojas-y-javiera-rey/).
 
 ### Science collaborators with Planetario de Santiago
 In 2017 we participated as science collaborators in the script of [“Bot y Lu: El escape del Agujero Negro”](http://planetariochile.cl/producciones/bot-y-lu/), the first production made for Planetario de Santiago.
