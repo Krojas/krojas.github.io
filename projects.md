@@ -6,7 +6,7 @@ layout: default
 
 ## Projects
 
-*One of the biggest challenges in cosmology and astrophysics is to understand the parameters that can describe the content, geometry and evolution of our Universe. The deflection of the light rays by a gravitational field, hence gravitational lens effect, is one of the most powerful tool to address this problems. There is a broad variety of scientific questions that can be studied using this effect but sadly not enough gravitational lensing systems have been confimed yet.*
+*One of the biggest challenges in cosmology and astrophysics is to understand the parameters that can describe the content, geometry and evolution of our Universe. The gravitational lens effect, produced by the deflection of the light rays by a gravitational field, is one of the most powerful tool to address this problems. There is a broad variety of scientific questions that can be studied using this effect, including the study of dark matter and dark energy. We are looking for more lens gravitational systems to address this questions with robust evidence.*
 
 *I'm presenting here some of the research topics of my interest including the search for new gravitational lens systems.*
 
