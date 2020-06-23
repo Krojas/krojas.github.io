@@ -29,7 +29,7 @@ In october 2018, the newspaper El Mercurio and Universidad Adolfo Ibáñez selec
 
 ### Mujeres Bacanas
 ![Mbacanas](/images/bacanas.png)
-In 2018 the iniciative "Mujeres Bacanas" hightly the trayectory of Star Tres in their [website](https://mujeresbacanas.com/carolina-agurto-karina-rojas-y-javiera-rey/).
+In 2018 the iniciative "Mujeres Bacanas", dedicated to visualizing the legacy of women through their lives and works, hightly our trayectory as Star Tres in their [website](https://mujeresbacanas.com/carolina-agurto-karina-rojas-y-javiera-rey/).
 
 ### Science collaborators with Planetario de Santiago
 In 2017 we participated as science collaborators in the script of [“Bot y Lu: El escape del Agujero Negro”](http://planetariochile.cl/producciones/bot-y-lu/), the first production made for Planetario de Santiago.
