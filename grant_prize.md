@@ -13,4 +13,5 @@ In 2017 I was selected among hundreds of applicant as part of the second cohort 
 ### Graduate Student Prize Lecture 
 The Chilean Society of Astronomy (SOciedad CHIlena de AStronomia, SOCHIAS) award every year to a graduate student that present the best summary to give a talk in the annual meeting. In 2015 I won this prize to present as a lecture the talk  “Strong Chromatic Microlensing in HE0047-1756 and SDSS1155+6456“. [Link](https://sochias.cl/premio-mejor-resumen-estudiante-2015/)
 
+[back](./)
 
