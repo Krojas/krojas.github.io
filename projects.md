@@ -10,20 +10,18 @@ layout: default
 
 *I'm presenting here some of the research topics of my interest including the search for new gravitational lens systems.*
 
+If you want to see my list of publications please click [here](./publications.html)
 
 [back](./)
 
 ### Lens Finding
 ![simulations](/images/sim_s1.png)
 
-Currently I'm applying Convolutional Neural Network (CNN) algorithm to look for lenses in ground base data. This algorithm required training/testing/validation sets of thousand of systems to be able to learn how they "look". But there is only hundreds of known strong lensing systems, so they are not enough to be used in these sets, therefore the first and very challenging step is simulate gravitational lens systems. 
+Currently I'm using a Convolutional Neural Network (CNN) to look for lenses in ground base data. This algorithm required training/testing/validation sets of thousands of systems to be able to learn how they "look". But there are only hundreds of known strong lensing systems, so they are not enough to be used in these sets, therefore the first and very challenging step is to simulate gravitational lens systems. 
 
-I developed a full lens simulation toolbox based on lenstronomy (Birrer & Amara 2018) to create simulations base on real data unlike previous work which training set where fully simulated of partially simulated. I’m exploring different parameters distribution to provide the most diverse sample as a training set. 
+I developed a full lens simulation toolbox based on *Lenstronomy* (Birrer & Amara 2018) to create realistic simulations based on **real** data unlike previous work whose training sets were fully simulated or partially simulated.
 
-Once we will have lens candidates we will need to do observational follow-up campaigns to confirm them. To do this we will need high resolution image and high signal to noise spectroscopic data.
-
-With the discovery of new lensing systems also other projects like, microlensing in quasars to study the inner structures and solve the Hubble constant tension will be benefited. Increasing the number of known system will improve the statistical analysis.
-
+Next step in this journey will be observational follow-up campaigns to confirm our lens candidates, using the most powerful telescopes that provide us with high resolution images and high signal to noise spectroscopic data.
 
 [back](./)
 
