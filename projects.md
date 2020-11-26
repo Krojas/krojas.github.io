@@ -15,7 +15,7 @@ If you want to see my list of publications please click [here](./publications.ht
 [back](./)
 
 ### Lens Finding
-![simulations](/images/sim_s1.png)
+![simulations](/images/sim_selectbycnn0.png)
 
 Currently I'm using a Convolutional Neural Network (CNN) to look for lenses in ground base data. This algorithm required training/testing/validation sets of thousands of systems to be able to learn how they "look". But there are only hundreds of known strong lensing systems, so they are not enough to be used in these sets, therefore the first and very challenging step is to simulate gravitational lens systems. 
 
