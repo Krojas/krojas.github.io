@@ -10,7 +10,7 @@ I’m a co-founder of the outreach initiative [Star Tres](http://www.startres.ne
 Nowadays our community is large (33000 subscribers in YouTube) which opened us up to many opportunities:
 
 ### Eclipse 2020 collaboration with SERNATUR Los Rios. 
-![eclipse](/images/eclipse.png)
+![eclipse](/images/eclipse.jpg)
 With the sponsorship of the Chilean national service of tourism and the support of the science ministry we prepare a document with all the needed information about the Eclipse 2020 that you can find [here](https://drive.google.com/file/d/15lew73cbTd-ZtTjlA1JgPb1okqGZllC1/view) and 3 videos: 
 
 [Disfrutemos un #EclipseSeguro en Los Ríos](https://www.youtube.com/watch?v=TabK_yqrHyM&t=218s)
