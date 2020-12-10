@@ -7,3 +7,5 @@ layout: default
 ### Lens Finding using Neural Networks 
 #### XVI SOCHIAS Annual Meeting, Online, December 9-11
 [Talk](/pdf/Krojas_sochias2020.pdf)
+
+[back to main page](./)
