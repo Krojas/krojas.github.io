@@ -12,6 +12,9 @@ layout: default
 
 If you want to see my list of publications please click [here](./publications.html)
 
+
+I just create a repository for my scientific presentations so you can find the pdfs [here](./talks.html)
+
 [back](./)
 
 ### Lens Finding
