@@ -13,4 +13,5 @@ XVI SOCHIAS Annual Meeting, Online, December 9-11
 Swiss Euclid days 2020
 [Talk](/pdf/krojas_Swiss_Euclid_days.pdf)
 
+
 [back to main page](./)
