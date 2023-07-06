@@ -1,6 +1,8 @@
 theme: minimal-mistakes-jekyll
 title: Dr. Karina Rojas
 logo: '/images/paranal.jpg'
+gems:
+  - minimal-mistakes-jekyll
 
 
 
