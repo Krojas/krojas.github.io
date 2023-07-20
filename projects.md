@@ -18,7 +18,12 @@ I just create a repository for my scientific presentations so you can find the p
 [back](./)
 
 ### Convolutional Neural Network
+![Candidates](/images/candidates.png)
 We trained an Efficienet B1 with the goal to find new gravitational lens system in the Dark Energy Survey. A 0.4% of the whole sample analyzed by the convolutional neural network obtained a score above 0.9, which were then visually inspected. We found a total of 186 candidates that are newly identified by our search and another 219 previously identified for other works and methods. 
+
+In this project we also used  [Muscadet](https://remyjoseph.wordpress.com/softwares/muscadet/) for deblending and we modeled the best candidates with only one deflector, using an automatic pipeline developed by a master student. 
+
+All the results can be found in [here.](https://ui.adsabs.harvard.edu/abs/2022A%26A...668A..73R/abstract)
 
 ### Strong lensing simulations
 ![simulations](/images/sim_selectbycnn0.png)
