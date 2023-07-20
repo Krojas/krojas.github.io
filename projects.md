@@ -17,6 +17,18 @@ I just create a repository for my scientific presentations so you can find the p
 
 [back](./)
 
+
+### who classifies gravitational lenses better: professors, postdocs, students or the machine?
+In this project my goal was to test how good humans are at classifying gravitational lensing and detect how we are biasing the selection of this system, as we have been always relying on human experts' final word after a machine learning classification. 
+
+We recruited a total of 55 people that completed more than 25% of the project. During the classification task, we present to the participants 1489 images. We designed the data sets to have a broad variety of examples including: simulated lenses; real lens candidates; non-lens examples; and unlabeled data. We also duplicated 105 cutouts to investigate the level of consistency of individuals when classifying. We used the citizen science web portal Zoouniverse to host our project. 
+
+If you want a know who perform better professors? students? the machine? confident people? those with more than 10 years of experience in the field? you can read the full article [here.](https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.4413R/abstract) 
+
+But here you have a teaser: 
+![cvp](/images/purvscom.png)
+
+
 ### Convolutional Neural Network
 ![Candidates](/images/candidates.png)
 We trained an Efficienet B1 with the goal to find new gravitational lens system in the Dark Energy Survey. A 0.4% of the whole sample analyzed by the convolutional neural network obtained a score above 0.9, which were then visually inspected. We found a total of 186 candidates that are newly identified by our search and another 219 previously identified for other works and methods. 
