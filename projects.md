@@ -19,7 +19,9 @@ I just create a repository for my scientific presentations so you can find the p
 
 ### Autoencoder for deblending. 
 ==Work In Progress==
+
 Lens systems are such a wonderful tool, but they can be a huge headache when we can not disentangle how much light is coming from this or that object. Some arcs or counter images are usually blended with the lens galaxy, the solution so far have been modeling the system to try to deblend, but this is SOOOO time consuming! 
+
 So we have been creating many many simulations to train CNN for classification so why don't we use them to train an autoencoder to deblend our systems? well after 10 failed tries... the 11 version of my autoencoder looks like it is doing something interesting ;)
 
 
