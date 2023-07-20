@@ -3,17 +3,46 @@ layout: default
 ---
 ## List of Publications
 
+## The impact of human expert visual inspection on the discovery of strong gravitational lenses
+
+2023 Monthly Notices of the Royal Astronomical Society, Volume 523, Issue 3, pp.4413-4430
+Rojas, Karina search by orcid ; Collett, Thomas E. search by orcid ; Ballard, Daniel ; Magee, Mark R. et al.
+[Link](https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.4413R/abstract)
+
+## Revealing the structure of the lensed quasar Q 0957+561 III. Constraints on the size of the broad-line region
+
+2023 eprint arXiv:2307.02914
+Fian, C. ; Muñoz, J. A. ; Mediavilla, E. ; Jiménez-Vicente, J. ; Motta, V. ; Chelouche, D. ; Wurzer, A. ; Hanslmeier, A. ; **Rojas, K.**
+[Link](https://ui.adsabs.harvard.edu/abs/2023arXiv230702914F/abstract)
+
+## Strong lensing in UNIONS: Toward a pipeline from discovery to modeling
+2022 A&A, Volume 668, id.A73, 41 pp.
+Rojas, K. ; Savary, E. ; Clément, B. ; Maus, M. ; Courbin, F. ; Lemon, C. ; Chan, J. H. H. ; Vernardos, G. ; Joseph, R. ; Cañameras, R. ; Galan, A.
+[Link](https://ui.adsabs.harvard.edu/abs/2022A%26A...668A..73R/abstract)
+
+## Search of strong lens systems in the Dark Energy Survey using convolutional neural networks
+
+2022, A&A,  Volume 666, id.A1, 27 pp.
+Savary, E. ; **Rojas, K.** ; Maus, M. ; Clément, B. ; Courbin, F. ; Gavazzi, R. ; Chan, J. H. H. ; Lemon, C. ; Vernardos, G. ; Cañameras, R. ; Schuldt, S. ; Suyu, S. H. ; Cuillandre, J. -C. ; Fabbro, S. ; Gwyn, S. ; Hudson, M. J.  ; Kilbinger, M. ; Scott, D. ; Stone, C.
+[Link](https://ui.adsabs.harvard.edu/abs/2022A%26A...666A...1S/abstract)
+
+## Discovery of strongly lensed quasars in the Ultraviolet Near Infrared Optical Northern Survey (UNIONS)
+
+2022, A&A,  Volume 659, id.A140, 14 pp.
+Chan, J. H. H. ; Lemon, C. ; Courbin, F. ; Gavazzi, R. ; Clément, B. ; Millon, M. ; Paic, E. ; **Rojas, K.** ; Savary, E. search by orcid ; Vernardos, G. ; Cuillandre, J. -C. ; Fabbro, S.; Gwyn, S. ; Hudson, M. J.; Kilbinger, M. ; McConnachie, A.
+[Link](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A.140C/abstract)
+
 ## Revealing the Structure of the Lensed Quasar Q 0957+561, I. Accretion Disk Size
 
-2020,A&A, submitted
+2021, A&A, Volume 654, id.A70, 9 pp.
 C. Fian, E. Mediavilla, J. Jiménez-Vicente, V. Motta, J. A. Muñoz, D. Chelouche, P. Goméz-Alvarez, **K. Rojas**, A. Hanslmeier
-
+[Link](https://ui.adsabs.harvard.edu/abs/2021A%26A...654A..70F/abstract)
 
 ## Measuring accretion disk sizes of lensed quasars with microlensing time delay in multi-band light curves
 
-2020, A&A, Accepted.
+2021, A&A, Volume 647, id.A115, 10 pp.
 Chan, J. H. H.; **Rojas, K.**; Millon, M.; Courbin, F.; Bonvin, V.; Jauffret, G.
-[Link](https://ui.adsabs.harvard.edu/abs/2020arXiv200714416C/abstract)
+[Link](https://ui.adsabs.harvard.edu/abs/2021A%26A...647A.115C/abstract)
 
 ## TDCOSMO II: Six new time delays in lensed quasars from high-cadence monitoring at the MPIA 2.2m telescope
 
