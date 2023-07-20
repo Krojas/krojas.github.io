@@ -8,6 +8,6 @@ layout: default
 
 ## Academic CV
 
-[Here](/pdf/CV_krojas.pdf)
+[Here](/pdf/cv.pdf)
 
 [back](./)
