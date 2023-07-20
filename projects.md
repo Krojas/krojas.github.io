@@ -19,14 +19,15 @@ I just create a repository for my scientific presentations so you can find the p
 
 ### Autoencoder for deblending. 
 ==Work In Progress==
-Lens systems are such a wonderful tool, but they can be a huge headake when we can not disentagle how much light is coming from this or that object. Some arcs or counter images are usually blended with the lens galaxy, the solution so far have been modeling the system to try to deblen, but this is SOOOO time consuming! 
-So we have been creating many many simulations to train CNN for classification so why we don't use them to train an autoencoder to deblend our systems? well after 10 faied tries... the 11 version of my autoencoder looks like is doing something interesting ;)
+Lens systems are such a wonderful tool, but they can be a huge headache when we can not disentangle how much light is coming from this or that object. Some arcs or counter images are usually blended with the lens galaxy, the solution so far have been modeling the system to try to deblend, but this is SOOOO time consuming! 
+So we have been creating many many simulations to train CNN for classification so why don't we use them to train an autoencoder to deblend our systems? well after 10 failed tries... the 11 version of my autoencoder looks like it is doing something interesting ;)
+
 
 But here you have a teaser: 
 ![auto](/images/autoencoder.png)
 
 
-### who classifies gravitational lenses better: professors, postdocs, students or the machine?
+### Who classifies gravitational lenses better: professors, postdocs, students or the machine?
 In this project my goal was to test how good humans are at classifying gravitational lensing and detect how we are biasing the selection of this system, as we have been always relying on human experts' final word after a machine learning classification. 
 
 We recruited a total of 55 people that completed more than 25% of the project. During the classification task, we present to the participants 1489 images. We designed the data sets to have a broad variety of examples including: simulated lenses; real lens candidates; non-lens examples; and unlabeled data. We also duplicated 105 cutouts to investigate the level of consistency of individuals when classifying. We used the citizen science web portal Zoouniverse to host our project. 
