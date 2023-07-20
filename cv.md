@@ -4,6 +4,10 @@ layout: default
 
 ## Industry CV
 
-[here]()
+[Here](/pdf/CV_krojas.pdf)
+
+## Academic CV
+
+[Here](/pdf/CV_krojas.pdf)
 
 [back](./)
