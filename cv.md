@@ -2,5 +2,8 @@
 layout: default
 ---
 
-## coming soon
+## Industry CV
+
+[here]()
+
 [back](./)
