@@ -11,7 +11,7 @@ Rojas, Karina search by orcid ; Collett, Thomas E. search by orcid ; Ballard, Da
 
 ## Revealing the structure of the lensed quasar Q 0957+561 III. Constraints on the size of the broad-line region
 
-2023 eprint arXiv:2307.02914
+2023 eprint arXiv:2307.02914, acepted
 Fian, C. ; Muñoz, J. A. ; Mediavilla, E. ; Jiménez-Vicente, J. ; Motta, V. ; Chelouche, D. ; Wurzer, A. ; Hanslmeier, A. ; **Rojas, K.**
 [Link](https://ui.adsabs.harvard.edu/abs/2023arXiv230702914F/abstract)
 
