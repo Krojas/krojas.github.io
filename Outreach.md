@@ -9,6 +9,18 @@ I’m a co-founder of the outreach initiative [Star Tres](http://www.startres.ne
 
 Nowadays our community is large (33000 subscribers in YouTube) which opened us up to many opportunities:
 
+### Asteroid Workshop: A rocky Adventure, AVERO
+![AVERO](/images/AVERO.png)
+In 2020 we won a 5874EUR grant from the IAU-OAD outreach project. 
+
+The goal of our project was to deliver astronomical material (900 kits) for students and develop a training course for teachers, focused on the science of asteroids:
+
+- Many teachers in public schools, while they have motivation, they lack resources and training to implement any class-innovation beyond the basics.
+- Selected students and teachers came from less favored Chilean public schools.
+- Educational kits were built and distributed thanks to the OAD funding, with additional material from ALMA and ESO. 
+- We trained all selected teachers so they could replicate the Asteroids Workshop with their students. Our asteroids handbook, workshop video, and all additional material was published in our website for other teachers to use it as well.
+
+
 ### Eclipse 2020 collaboration with SERNATUR Los Rios. 
 ![eclipse](/images/eclipse.jpg)
 With the sponsorship of the Chilean national service of tourism and the support of the science ministry we prepare a document with all the needed information about the Eclipse 2020 that you can find [here](https://drive.google.com/file/d/15lew73cbTd-ZtTjlA1JgPb1okqGZllC1/view) and 3 videos: 
