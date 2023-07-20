@@ -9,7 +9,7 @@
 
 [Outreach](./Outreach.html)
 
-[My cv](/pdf/cv.pdf)
+[My cv](/pdf/cv.html)
 
 **Contact:**
 karina.rojasolate@gmail.com
