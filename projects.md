@@ -17,14 +17,16 @@ I just create a repository for my scientific presentations so you can find the p
 
 [back](./)
 
-### Lens Finding
+### Convolutional Neural Network
+We trained an Efficienet B1 with the goal to find new gravitational lens system in the Dark Energy Survey. A 0.4% of the whole sample analyzed by the convolutional neural network obtained a score above 0.9, which were then visually inspected. We found a total of 186 candidates that are newly identified by our search and another 219 previously identified for other works and methods. 
+
+### Strong lensing simulations
 ![simulations](/images/sim_selectbycnn0.png)
 
-Currently I'm using a Convolutional Neural Network (CNN) to look for lenses in ground base data. This algorithm required training/testing/validation sets of thousands of systems to be able to learn how they "look". But there are only hundreds of known strong lensing systems, so they are not enough to be used in these sets, therefore the first and very challenging step is to simulate gravitational lens systems. 
+To use Convolutional Neural Network (CNN) to look for lenses in ground base data we require training/testing/validation sets of thousands of systems to be able to learn how they "look". But there are only hundreds of known strong lensing systems, so they are not enough to be used in these sets, therefore the first and very challenging step is to simulate gravitational lens systems. 
 
-I developed a full lens simulation toolbox based on *Lenstronomy* (Birrer & Amara 2018) to create realistic simulations based on **real** data unlike previous work whose training sets were fully simulated or partially simulated.
+I developed a full data driven lens simulation toolbox based on *Lenstronomy* (Birrer & Amara 2018) to create realistic simulations based on **real** data unlike most of the previous work whose training sets were fully simulated or partially simulated.
 
-Next step in this journey will be observational follow-up campaigns to confirm our lens candidates, using the most powerful telescopes that provide us with high resolution images and high signal to noise spectroscopic data.
 
 [back](./)
 
