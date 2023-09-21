@@ -17,13 +17,13 @@ Fian, C. ; Muñoz, J. A. ; Mediavilla, E. ; Jiménez-Vicente, J. ; Motta, V. ; C
 
 ## Strong lensing in UNIONS: Toward a pipeline from discovery to modeling
 2022 A&A, Volume 668, id.A73, 41 pp.
-Rojas, K. ; Savary, E. ; Clément, B. ; Maus, M. ; Courbin, F. ; Lemon, C. ; Chan, J. H. H. ; Vernardos, G. ; Joseph, R. ; Cañameras, R. ; Galan, A.
+Savary, E. ; **Rojas, K.** ; Maus, M. ; Clément, B. ; Courbin, F. ; Gavazzi, R. ; Chan, J. H. H. ; Lemon, C. ; Vernardos, G. ; Cañameras, R. ; Schuldt, S. ; Suyu, S. H. ; Cuillandre, J. -C. ; Fabbro, S. ; Gwyn, S. ; Hudson, M. J.  ; Kilbinger, M. ; Scott, D. ; Stone, C.
 [Link](https://ui.adsabs.harvard.edu/abs/2022A%26A...668A..73R/abstract)
 
 ## Search of strong lens systems in the Dark Energy Survey using convolutional neural networks
 
 2022, A&A,  Volume 666, id.A1, 27 pp.
-Savary, E. ; **Rojas, K.** ; Maus, M. ; Clément, B. ; Courbin, F. ; Gavazzi, R. ; Chan, J. H. H. ; Lemon, C. ; Vernardos, G. ; Cañameras, R. ; Schuldt, S. ; Suyu, S. H. ; Cuillandre, J. -C. ; Fabbro, S. ; Gwyn, S. ; Hudson, M. J.  ; Kilbinger, M. ; Scott, D. ; Stone, C.
+Rojas, K. ; Savary, E. ; Clément, B. ; Maus, M. ; Courbin, F. ; Lemon, C. ; Chan, J. H. H. ; Vernardos, G. ; Joseph, R. ; Cañameras, R. ; Galan, A.
 [Link](https://ui.adsabs.harvard.edu/abs/2022A%26A...666A...1S/abstract)
 
 ## Discovery of strongly lensed quasars in the Ultraviolet Near Infrared Optical Northern Survey (UNIONS)
