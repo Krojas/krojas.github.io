@@ -4,7 +4,7 @@ layout: default
 
 ## Industry CV
 
-[Here](/pdf/CV_krojas_up.pdf)
+[Here](/pdf/CV_KRojas_up.pdf)
 
 ## Academic CV
 
