@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Projects</title>
+</head>
+<body>
+
+  <img src="/images/lensing1.jpg" alt="Lensing">
+
+  <h2>Projects</h2>
+
+  <p><em>One of the biggest challenges in cosmology and astrophysics is to understand the parameters that describe the content, geometry, and evolution of our Universe. The gravitational lens effect—produced by the deflection of light rays by a gravitational field—is one of the most powerful tools to address these problems. It allows the study of dark matter, dark energy, and other fundamental components of the Universe.</em></p>
+
+  <p><em>I’m presenting here some of the research topics of my interest, including the search for new gravitational lens systems using artificial intelligence.</em></p>
+
+  <p>
+    👉 <a href="./publications.html">Publications</a><br>
+    📄 <a href="./talks.html">Scientific Presentations</a><br>
+    🔙 <a href="./">Back to Home</a>
+  </p>
+
+  <hr>
+
+  <h3>Lens Finding</h3>
+
+  <img src="/images/sim_selectbycnn0.png" alt="Simulations">
+
+  <p>
+    I am currently using Convolutional Neural Networks (CNNs) to identify gravitational lenses in ground-based imaging data. 
+    This machine learning approach requires large training, validation, and test datasets composed of thousands of images. 
+    However, with only a few hundred known strong lens systems available, synthetic data is necessary.
+  </p>
+
+  <p>
+    To address this, I developed a comprehensive simulation pipeline using <em>Lenstronomy</em> (Birrer & Amara 2018) 
+    to generate realistic simulations based on <strong>real observational data</strong>, unlike previous approaches relying solely on synthetic inputs.
+  </p>
+
+  <p>
+    The next steps include observational follow-up campaigns using powerful telescopes to confirm our CNN-selected 
+    candidates through high-resolution imaging and spectroscopy.
+  </p>
+
+  <p><a href="./">🔙 Back</a></p>
+
+  <hr>
+
+  <h3>Quasar Microlensing</h3>
+
+  <img src="/images/micro.png" alt="Microlensing">
+
+  <p>
+    Quasar microlensing occurs when the light from a distant quasar is magnified by stars or compact objects in a foreground 
+    galaxy, producing micro-arcsecond scale variations. I have worked on two primary applications in this area:
+  </p>
+
+  <h4>Inner Structure of Quasars</h4>
+
+  <p>
+    The central regions of quasars, including their accretion disks, are too small to be directly imaged, even with 
+    interferometers like the VLTI. However, microlensing offers indirect access to this regime.
+  </p>
+
+  <p>
+    By analyzing spectroscopic data for chromatic microlensing signatures (wavelength-dependent magnification), I have 
+    been able to estimate the <strong>size</strong> and <strong>temperature profile</strong> of accretion disks, testing 
+    models such as those proposed by Shakura & Sunyaev (1973).
+  </p>
+
+  <h4>Hubble Constant and Microlensing</h4>
+
+  <p>
+    Strongly lensed quasars can provide an <strong>independent measurement</strong> of the Hubble constant (H<sub>0</sub>) 
+    through time-delay cosmography. Projects like <strong>COSMOGRAIL</strong> and <strong>H0LiCOW</strong> use long-term 
+    photometric monitoring to extract these delays.
+  </p>
+
+  <p>
+    However, microlensing-induced variations can bias these measurements. I studied and implemented methods proposed 
+    by Tie & Kochanek (2018) to simulate and correct for <strong>microlensing time delay</strong>, ensuring more robust 
+    estimates of H<sub>0</sub>. This methodology is now integrated into the H0LiCOW collaboration’s workflow.
+  </p>
+
+  <p><a href="./">🔙 Back</a></p>
+
+</body>
+</html>
