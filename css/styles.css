@@ -135,6 +135,10 @@ footer {
 
 /* Responsive */
 @media only screen and (max-width: 768px) {
+    #lead-image {
+    width: 90%;
+    max-width: 400px;
+  }
     #lead h1 {
         font-size: 2.5em;
     }
