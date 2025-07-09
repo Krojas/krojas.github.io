@@ -13,6 +13,20 @@
   --color-muted: #6b7b8c;          /* Muted blue-gray */
 }
 
+#lead-image {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 2;
+}
+
+#lead-image img {
+  max-width: 90%;
+  height: auto;
+  display: block;
+}
+
 body {
     font-family: 'Lato', sans-serif;
     font-size: 16px;
