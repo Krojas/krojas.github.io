@@ -4,13 +4,13 @@
 */
 
 :root {
-    --color-primary: #2A62F1;
-    --color-primary-dark: #1E3A8A;
-    --color-accent: #10B981;
-    --color-bg: #F9FAFB;
-    --color-surface: #FFFFFF;
-    --color-text: #1F2937;
-    --color-muted: #6B7280;
+  --color-primary: #a3d5d3;        /* Soft teal */
+  --color-primary-dark: #7dbbb7;   /* Deeper pastel teal */
+  --color-accent: #ffd6e0;         /* Soft pink */
+  --color-bg: #f9f9f9;             /* Background */
+  --color-surface: #ffffff;        /* White surface elements */
+  --color-text: #374054;           /* Charcoal text */
+  --color-muted: #6b7b8c;          /* Muted blue-gray */
 }
 
 body {
