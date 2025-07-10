@@ -18,7 +18,7 @@
 dropHeader{0%{transform:translateY(-100%)}100%{transform:translateY(0)}}header{position:absolute;top:0;left:0;right:0;text-align:center;z-index:10;animation-name:dropHeader;animation-iteration-count:1;animation-timing-function:ease;animation-duration:0.75s}
 header ul{display:inline-block;background:#fff;text-align:center;padding:10px;margin:0;border-bottom-right-radius:4px;border-bottom-left-radius:4px}
 header li{display:inline-block}header a{display:block;color:#1C1C24;padding:10px}
-header a:hover{color:#217dbb;text-decoration:none;background:#eee;border-radius:4px}
+header a:hover{color:#F5C15D;text-decoration:none;background:#eee;border-radius:4px}
 header a:focus{color:#1C1C24;text-decoration:none}
 header.active{display:block}
 header.sticky{position:fixed;z-index:999}
