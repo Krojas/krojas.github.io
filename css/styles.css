@@ -80,25 +80,3 @@ a{display:block;color:#74808a;padding:10px}.social a:hover{color:#1C1C24}.btn-ro
 #lead-down{display:none}.education-block h3,.education-block span{float:none}.project-image{display:none}.project-info{position:relative;margin:0;padding:30px 15px;top:auto;transform:none}footer{text-align:center}.social{text-align:center}}@media only screen and (max-width: 480px){#lead-content h1{font-size:1.5em}#lead-content h2{font-size:1em}#lead-content a{font-size:0.9em;padding:5px 10px}}
 
 
-#lead {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 40px;
-  padding: 60px 20px;
-  flex-wrap: wrap; /* responsive for small screens */
-}
-
-#lead-photo img {
-  width: 200px;
-  height: 200px;
-  object-fit: cover;
-  border-radius: 50%;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); /* subtle shadow */
-}
-
-#lead-content {
-  max-width: 600px;
-  color: white;
-  text-align: right;
-}
