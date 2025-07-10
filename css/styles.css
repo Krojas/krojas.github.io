@@ -36,7 +36,7 @@ a{display:block;color:#74808a;padding:10px}.social a:hover{color:#1C1C24}.btn-ro
 #lead-content h2{margin:0}
 #lead-content h1{color:#fff;font-weight:900;font-size:5em;text-transform:uppercase;letter-spacing:0.05em;line-height:0.9em}
 #lead-content h2{color:#6B4C6E;font-weight:500;font-size:2.25em;margin-bottom:15px}
-#lead-overlay{position:absolute;height:100%;width:100%;top:0;right:0;bottom:0;left:0;background:rgba(28, 28, 36, 0.8);z-index:1}
+#lead-overlay{position:absolute;height:100%;width:100%;top:0;right:0;bottom:0;left:0;background:rgba(117, 117, 157, 0.4);z-index:1}
 #lead-down{position:absolute;left:0;right:0;width:100%;text-align:center;z-index:10;bottom:15px;color:#fff}
 #lead-down span{cursor:pointer;display:block;margin:0 auto;width:35px;height:35px;border-radius:50%;border:3px solid #6B4C6E;text-align:center}
 #lead-down i{animation:pulsate 1.5s ease;animation-iteration-count:infinite;padding-top:5px}@keyframes pulsate{0%{transform:scale(1, 1)}50%{transform:scale(1.2, 1.2)}100%{transform:scale(1, 1)}}
